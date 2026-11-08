@@ -1,24 +1,152 @@
-<h1 align="center">Hi 👋, I'm Mohammad Bharmal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbharmal36-oss&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbharmal36-oss" /> </p>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=mohammadbharmal36-oss&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Mohammad Bharmal profile banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadbharmal36-oss" alt="mohammadbharmal36-oss" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Najmi Herbals](najmiherbal.netlify.app)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20C%2B%2B%20%C2%B7%20TypeScript%20%C2%B7%20HTML;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
-- 🌱 I’m currently learning **C,C++**
+<br/>
 
-- 👯 I’m looking to collaborate on **Aethelas Research**
+<a href="https://github.com/mohammadbharmal36-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
-- 📫 How to reach me **mohammadbharmal36@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mohammadbh27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadbh27" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/1_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="1 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚡ whoami
+
+```typescript
+const mohammadbharmal36_oss: Developer = {
+  name:      "Mohammad Bharmal",
+  role:      "Frontend or full-stack engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["C++", "TypeScript", "HTML", "Python", "JavaScript", "CSS"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> Frontend or full-stack engineer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp%2Ctypescript%2Chtml%2Cpython%2Cjavascript%2Ccss&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&amp;labelColor=0d1117" alt="C++" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**minisearch**
+
+A featured build from this profile.
+
+`C++` · `1 stars`
+
+<a href="https://github.com/mohammadbharmal36-oss/minisearch"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**sikshasetu-ai**
+
+A featured build from this profile.
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/mohammadbharmal36-oss/sikshasetu-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Leetcode**
+
+This repository is managed by LeetPush extension: https://github.com/LeetPushExtension/LeetPush
+
+`C++` · `0 stars`
+
+<a href="https://github.com/mohammadbharmal36-oss/Leetcode"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**mohammadbharmal36-oss**
+
+A featured build from this profile.
+
+`Open source` · `0 stars`
+
+<a href="https://github.com/mohammadbharmal36-oss/mohammadbharmal36-oss"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=mohammadbharmal36-oss&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=mohammadbharmal36-oss&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mohammadbharmal36-oss&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F281568476%3Fu%3D60cd86c5ba9be972b4f14cdbe0422d653cd0aab8%26v%3D4" alt="mohammadbharmal36-oss heatmap visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadbharmal36-oss&show_icons=true&locale=en&layout=compact" alt="mohammadbharmal36-oss" /></p>
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 322 contributions in the last year
+* 🚀 **Builder energy:** 4 public repositories
+* ⭐ **Community signal:** 1 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohammadbharmal36-oss&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/mohammadbharmal36-oss"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [Mohammad Bharmal](https://github.com/mohammadbharmal36-oss) · built with code, AI & a little chaos 😈***
+
+</div>
